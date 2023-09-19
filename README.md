@@ -1,2 +1,1 @@
-Título: HEROES - Lista de integrantes:
-
+Título: HEROES - Lista de integrantes
